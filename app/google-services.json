@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933080494505",
+    "project_id": "project-utb",
+    "storage_bucket": "project-utb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933080494505:android:211d950b4c4f9c8c2a94b8",
+        "android_client_info": {
+          "package_name": "com.sugara.newscatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933080494505-74435t049l3fic3ihqjthagtcab66k4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sugara.newscatalog",
+            "certificate_hash": "55e1b26aeca4544214f37c43a757871ea63acb59"
+          }
+        },
+        {
+          "client_id": "933080494505-m58eh7g317jog54g43oftka5h7pn76j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpi01uQhdCxMCJQ8TVS08cYEHJz5uC6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933080494505-m58eh7g317jog54g43oftka5h7pn76j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
